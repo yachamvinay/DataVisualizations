@@ -1,0 +1,3 @@
+- We have 2 files, excel and pbix files
+- Excel file is raw data file and pbix file, is powerbi file which I have designed a dashboard using the raw data
+- If you have any suggestions feel free to reach out me
